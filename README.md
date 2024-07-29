@@ -20,19 +20,4 @@ N/A
 
 MIT License
 
-## Badges
-
-N/A
-
-## Features
-
-N/A
-
-## How to Contribute
-
-N/A
-
-## Tests
-
-N/A
 
