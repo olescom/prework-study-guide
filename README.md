@@ -2,7 +2,7 @@
 
 ## Description
 
-My motivation was to learn a new skill like coding and then have the potential to use that skill to get career out of it. This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaSript. 
+This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
 
 ## Installation
 
@@ -19,5 +19,3 @@ N/A
 ## License
 
 MIT License
-
-
